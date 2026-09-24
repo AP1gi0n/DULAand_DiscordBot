@@ -1,2 +1,3 @@
 # DULAand_DiscordBot
-DULA&amp;/DULAand is an Administrative and Interactive discord bot that is written in  C++ and uses the D++ Discord API Library Developed by brainboxdotcc
+DULA&amp;/DULAand is an Administrative and Interactive discord bot that is written in  C++ and uses the D++ Discord API Library Developed by brainboxdotcc. If any error occurs please notify me at my email Aaron.Lewis@live.longwood.edu . This is my first time uploading to github so im sure theres bound to be errors.
+NOTE!: The program provided is an early version of DULA& called glitterbot which was designed for a project in my CMSC 162 class. DULAand is still in development and glitterbot does not represent the final product. Additionally files that were part of the lab being conducted are present and can be ignored.
